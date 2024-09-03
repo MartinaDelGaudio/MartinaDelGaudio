@@ -12,15 +12,15 @@ I'm a passionate AI and Mathematics enthusiast with a strong academic and resear
 
 ## 💡 Notable Projects
 
-### - 🧬 Hypoxia-Driven Genomic Analysis
+- 🧬 **Hypoxia-Driven Genomic Analysis**
   - Published machine learning research at Bocconi's AI Lab.
   - Achievement: Developed models predicting breast cancer predisposition with 98% accuracy.
 
-- 👐  Deep Learning for Sign Language Translation
+- 👐  **Deep Learning for Sign Language Translation**
   - Implemented and fine-tuned models for Word Level American Sign Language (WLASL) translation.
   - Dataset: Analyzed 21,000 videos to enhance translation accuracy.
 
-- 🧠 Optimal Visual Inputs for Cortical Neurons
+- 🧠 **Optimal Visual Inputs for Cortical Neurons**
   - Developed a CNN-based approach to study mice visual cortex neurons.
   - Outcome: Achieved 62% accuracy in predicting spike responses.
 
