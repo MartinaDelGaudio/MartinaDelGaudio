@@ -40,7 +40,7 @@ I'm a passionate AI and Mathematics enthusiast with a strong academic and resear
 ## 📫 How to Reach Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/martinadelgaudio](https://www.linkedin.com/in/martina-del-gaudio-04b163220/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martina del gaudio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/martina-del-gaudio-04b163220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martina del gaudio" height="30" width="40" /></a>
 </p>
 
 [LinkedIn](your-linkedin-profile) | [Your Email](mailto:your-email@example.com)
