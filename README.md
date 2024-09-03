@@ -7,19 +7,12 @@ I'm a passionate AI and Mathematics enthusiast with a strong academic and resear
 - 📚 BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University
 - ✉️ Contact me at martina.delgaudio@outlook.com
 
-## 💡 Notable Projects
-- 🧬 **Hypoxia-Driven Genomic Analysis**
-- 
-  - Developed ML models predicting breast cancer predisposition with 98% accuracy.
-  - Published machine learning research at Bocconi's AI Lab.
-- 👐  **Deep Learning for Sign Language Translation**
-  
-  - Implemented and fine-tuned models for Word Level American Sign Language (WLASL) translation.
-  - Analyzed 21,000 videos to enhance translation accuracy.
-- 🧠 **Optimal Visual Inputs for Cortical Neurons**
-  
-  - Developed a CNN-based approach to study mice visual cortex neuronal response and extract Most Excitatory Inputs (MEI).
-  - Achieved a maximum of 62% accuracy in predicting spike responses.
+## 📂 Repositories Overview
+I have created repositories for various projects undertaken during my undergraduate studies. Each repository typically includes:
+- **Jupyter Notebook** (.ipynb)
+- **Final Report** (PDF)
+
+To explore my work, please navigate to the relevant repositories where you will find detailed documentation in the README files. These documents offer insights into the objectives, techniques used, and findings of each project.
  
 ## 👀 Interests
 - Mathematical Foundations of ML, including optimization, statistical theory, and high-dimensional geometry
@@ -48,6 +41,20 @@ I'm a passionate AI and Mathematics enthusiast with a strong academic and resear
 
 
 <!--
+
+## 💡 Notable Projects
+- 🧬 **Hypoxia-Driven Genomic Analysis**
+- 
+  - Developed ML models predicting breast cancer predisposition with 98% accuracy.
+  - Published machine learning research at Bocconi's AI Lab.
+- 👐  **Deep Learning for Sign Language Translation**
+  
+  - Implemented and fine-tuned models for Word Level American Sign Language (WLASL) translation.
+  - Analyzed 21,000 videos to enhance translation accuracy.
+- 🧠 **Optimal Visual Inputs for Cortical Neurons**
+  
+  - Developed a CNN-based approach to study mice visual cortex neuronal response and extract Most Excitatory Inputs (MEI).
+  - Achieved a maximum of 62% accuracy in predicting spike responses.
 **MartinaDelGaudio/MartinaDelGaudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
