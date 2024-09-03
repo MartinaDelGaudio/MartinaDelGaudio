@@ -3,11 +3,14 @@
 I'm a passionate AI and Mathematics enthusiast with a strong academic and research background, driven by the desire to leverage AI for meaningful, positive change in the world.
 
 🗺️ Based in Stanford, California
+
 🎓 Incoming MSc student in Computational and Mathematical Engineering at Stanford University
+
 📚 BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University
+
 ✉️ Contact me at martina.delgaudio@outlook.com
 
-# 💡 Notable Projects
+## 💡 Notable Projects
 
 - 🧬 Hypoxia-Driven Genomic Analysi
   - Published machine learning research at Bocconi's AI Lab.
