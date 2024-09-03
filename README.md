@@ -43,11 +43,7 @@ I'm a passionate AI and Mathematics enthusiast with a strong academic and resear
 <a href="https://www.linkedin.com/in/martina-del-gaudio-04b163220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martina del gaudio" height="30" width="40" /></a>
 </p>
 
-[LinkedIn](https://www.linkedin.com/in/martina-del-gaudio-04b163220/) | [Your Email](mailto:martina.delgaudio@outlook.com)
-
  
-
-
 
 
 
