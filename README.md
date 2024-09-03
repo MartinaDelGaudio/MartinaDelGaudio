@@ -3,6 +3,7 @@
 I'm a passionate AI and Mathematics enthusiast with a strong academic and research background, driven by the desire to leverage AI for meaningful, positive change in the world.
 
 🗺️ Based in Stanford, California
+
 🎓 Incoming MSc student in Computational and Mathematical Engineering at Stanford University
 
 📚 BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University
@@ -24,6 +25,18 @@ I'm a passionate AI and Mathematics enthusiast with a strong academic and resear
   - Outcome: Achieved 62% accuracy in predicting spike responses.
 
 
+## 🔧 Languages & Technologies
+
+- <i class="fab fa-python"></i> **Python**: Advanced proficiency in data analysis, machine learning, and AI development.
+- <i class="fab fa-cuttlefish"></i> **C**: Solid foundation in low-level programming and algorithm design.
+- <i class="fab fa-r-project"></i> **R**: Expertise in statistical analysis and data visualization.
+- <i class="fas fa-database"></i> **SQL**: Skilled in database management and complex query execution.
+
+### 🚀 Additional Tools & Platforms
+
+- <i class="fas fa-bullseye"></i> **Dart & Flutter**: Used for developing cross-platform mobile apps.
+- <i class="fas fa-fire"></i> **Firebase**: Integrated backend services for app development.
+- <i class="fab fa-android"></i> **Android Studio**: Experience in building and testing Android applications.
 
 
 
