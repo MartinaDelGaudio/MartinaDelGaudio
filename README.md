@@ -2,7 +2,8 @@
 
 I'm a passionate AI and Mathematics enthusiast with a strong academic and research background, driven by the desire to leverage AI for meaningful, positive change in the world.
 
-🗺️ Based in Stanford, California\\
+🗺️ Based in Stanford, California
+
 🎓 Incoming MSc student in Computational and Mathematical Engineering at Stanford University
 
 📚 BSc in Mathematical and Computing Sciences for Artificial Intelligence at Bocconi University
@@ -11,7 +12,7 @@ I'm a passionate AI and Mathematics enthusiast with a strong academic and resear
 
 ## 💡 Notable Projects
 
-- 🧬 Hypoxia-Driven Genomic Analysi
+### - 🧬 Hypoxia-Driven Genomic Analysis
   - Published machine learning research at Bocconi's AI Lab.
   - Achievement: Developed models predicting breast cancer predisposition with 98% accuracy.
 
