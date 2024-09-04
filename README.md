@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Martina
 
-I'm a passionate AI and Mathematics enthusiast with a strong academic and research background, driven by the desire to leverage AI for meaningful, positive change in the world.
+I'm an AI and Mathematics enthusiast with a strong academic and research background, driven by the desire to leverage AI for meaningful, positive change in the world.
 
 - 🗺️ Based in Stanford, California
 - 🎓 Incoming MSc student in Computational and Mathematical Engineering at Stanford University
